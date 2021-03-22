@@ -13,6 +13,7 @@
                         <th>Fotoğraf</th>
                         <th>Makale Başlığı</th>
                         <th>Kategori</th>
+                        <th>Eğitim</th>
                         <th>Görüntüleme Sayısı</th>
                         <th>Oluşturma Tarihi</th>
                         <th>İşlemler</th>
